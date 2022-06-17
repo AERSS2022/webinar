@@ -3,5 +3,6 @@
 
 | ID   | Time (GMT +8)            |Meeting Info                        |
 | ---- | -------------------------| ---------------------------------- |
-| 1    | 25 Jun 2022, 08:00-11:30| Meeting ID: 116 837 775 <br> [Enrollment link for users **in** Chinese Mainland](https://voovmeeting.com/dw/TRXxXVzkLfrA)<br>  [Enrollment link for users **not in** Chinese Mainland](https://meeting.tencent.com/dw/TRXxXVzkLfrA) <br/> |
+| 1st with CUMT| 25 June 2022, 08:00-11:40| Meeting ID: 116-837-775 <br> [Enrollment link for users **in** Chinese Mainland](https://voovmeeting.com/dw/TRXxXVzkLfrA)<br>  [Enrollment link for users **outside** Chinese Mainland](https://meeting.tencent.com/dw/TRXxXVzkLfrA) <br> |
+| 2022 Summer School | 14 July 2022, 08:00-12:00 <br> 14 July 2022, 14:00-17:00 <br> 15 July 2022, 14:00-18:00| Meeting ID: 629-689-570 <br> [Enrollment link for users **in** Chinese Mainland](https://voovmeeting.com/dw/nDccInJrNXBz)<br>  [Enrollment link for users **outside** Chinese Mainland](https://meeting.tencent.com/dw/nDccInJrNXBz) <br/> |
 |      |                         |         
