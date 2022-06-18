@@ -11,9 +11,11 @@ Moderator: **Chi Li**, Washington University in St. Louis.
 - 11:00-12:00, **Liye Zhu**, Sun Yat-Sen University
     > Introduction to atmospheric environmental remote sensing and data analysis
 
+<br>
+
 ## Session 2: Remote Sensing Retrieval
 Afternoon on 14th July 2022 (GMT+8)  
-Moderator: Siwei Li, Wuhan University  
+Moderator: **Siwei Li**, Wuhan University  
 ### Lecturers
 - 14:00-15:00, **Oleg Dubovik**, Lille University
     > Grand Challenges in Satellite Remote Sensing
@@ -22,9 +24,11 @@ Moderator: Siwei Li, Wuhan University
 - 16:00-17:00, **Linlu Mei**, University of Bremen
     > Remote sensing of atmospheric and surface parameters: from theory to knowledge
 
+<br>
+
 ## Session 3: Air quality, Climate and Health
 Afternoon on 15th July 2022 (GMT+8)  
-Moderator: Bin Zou, Central South University  
+Moderator: **Bin Zou**, Central South University  
 ### Lecturers
 - 14:00-15:00, **Gerrit de Leeuw**, Royal Netherlands Meteorological Institute
     > Aerosol information from satellite observations for air quality and climate applications
