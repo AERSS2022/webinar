@@ -6,7 +6,7 @@ The Summer School is an annual training course organized by Atmospheric Environm
 ## Session 1: Remote Sensing and Modelling
 Morning on 14th July 2022 (GMT+8)  
 Moderator: **Chi Li**, Washington University in St. Louis.   
-### Lecturers
+### Lectures
 - 8:00-9:00, **Ronald C. Cohen**, University of California, Berkeley 
     > TBD
 - 9:00-10:00, **Dylan Jones**, University of Toronto
@@ -21,7 +21,7 @@ Moderator: **Chi Li**, Washington University in St. Louis.
 ## Session 2: Remote Sensing Retrieval
 Afternoon on 14th July 2022 (GMT+8)  
 Moderator: **Siwei Li**, Wuhan University  
-### Lecturers
+### Lectures
 - 14:00-15:00, **Oleg Dubovik**, University of Lille
     > Grand Challenges in Satellite Remote Sensing
 - 15:00-16:00, **Lei Bi**, Zhejiang University
@@ -34,7 +34,7 @@ Moderator: **Siwei Li**, Wuhan University
 ## Session 3: Air quality, Climate and Health
 Afternoon on 15th July 2022 (GMT+8)  
 Moderator: **Bin Zou**, Central South University  
-### Lecturers
+### Lectures
 - 14:00-15:00, **Gerrit de Leeuw**, Royal Netherlands Meteorological Institute
     > Aerosol information from satellite observations for air quality and climate applications
 - 15:00-16:00, **Steve Hung Lam Yim**, Nanyang Technological University 
