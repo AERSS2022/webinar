@@ -1,3 +1,8 @@
+# 2022 Atmospheric Environmental Remote Sensing Summer School
+The Summer School is an annual training course organized by Atmospheric Environmental Remote Sensing Society (AERSS). The Society is an international scientific non-profit organization which will be formally recognized in mid-July 2022. AERSS is dedicated to building an interdisciplinary and cross-country platform for linking remote sensing to modeling and in situ observations, and promoting the application of atmospheric environmental remote sensing in climate, air quality, and other sustainable development goals (SDGs), especially in the Global South. As the inaugural event, the 2022 Summer School will invite senior and emerging scientists to deliver lectures. Due to the COVID-19 epidemic, the training courses will be held online over the two-day period from ***July 14-15, 2022***, using ***VooV Meeting***. A wide range of participants is expected including professional researchers, students, faculties, university staff, and policymakers.
+
+<br>
+
 ## Session 1: Remote Sensing and Modelling
 Morning on 14th July 2022 (GMT+8)  
 Moderator: **Chi Li**, Washington University in St. Louis.   
@@ -17,7 +22,7 @@ Moderator: **Chi Li**, Washington University in St. Louis.
 Afternoon on 14th July 2022 (GMT+8)  
 Moderator: **Siwei Li**, Wuhan University  
 ### Lecturers
-- 14:00-15:00, **Oleg Dubovik**, Lille University
+- 14:00-15:00, **Oleg Dubovik**, University of Lille
     > Grand Challenges in Satellite Remote Sensing
 - 15:00-16:00, **Lei Bi**, Zhejiang University
     > Light scattering by nonspherical particles: concepts, methods and applications
