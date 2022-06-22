@@ -1,4 +1,6 @@
 ## 1st Event with China University of Mining and Technology
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/1st%20with%20CUMT.png'>
+
 Morning on 25th June 2022 (GMT+8)  
 Moderator: **Kai Qin**, China University of Mining and Technology  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
