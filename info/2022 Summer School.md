@@ -38,7 +38,7 @@ Moderator: **Bin Zou**, Central South University
 - 14:00-15:00, **Gerrit de Leeuw**, Royal Netherlands Meteorological Institute
     > Aerosol information from satellite observations for air quality and climate applications
 - 15:00-16:00, **Steve Hung Lam Yim**, Nanyang Technological University 
-    > TBD
+    > Transboundary air pollution and its health impact in China
 - 16:00-17:00, **Peng Jia**, Wuhan University
     > Spatial epidemiology: a case study of air pollution and risk for cardiovascular diseases
 - 17:00-18:00, **Benoît Tournadre**, MINES ParisTech
