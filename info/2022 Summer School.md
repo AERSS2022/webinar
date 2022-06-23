@@ -7,13 +7,11 @@ The Summer School is an annual training course organized by Atmospheric Environm
 Morning on 14th July 2022 (GMT+8)  
 Moderator: **Chi Li**, Washington University in St. Louis.   
 ### Agenda
-- 8:00-9:00, **[Ronald C. Cohen](#ronald-c-cohen)**, University of California, Berkeley 
+- 8:00-9:00, **[Dylan Jones](#dylan-jones)**, University of Toronto
     > TBD
-- 9:00-10:00, **[Dylan Jones](#dylan-jones)**, University of Toronto
-    > TBD
-- 10:00-11:00, **[Jason B. Cohen](#jason-b-cohen)**, China University of Mining and Technology  
+- 9:00-10:00, **[Jason B. Cohen](#jason-b-cohen)**, China University of Mining and Technology  
     > Combining multiple remotely sensed platforms, physics, and chemistry to quantify, analyze, and attribute atmospheric carbon and nitrogen
-- 11:00-12:00, **[Liye Zhu](#liye-zhu)**, Sun Yat-Sen University
+- 10:00-11:00, **[Liye Zhu](#liye-zhu)**, Sun Yat-Sen University
     > Introduction to atmospheric environmental remote sensing and data analysis
 
 <br>
@@ -44,9 +42,6 @@ Moderator: **Bin Zou**, Central South University
 - 17:00-18:00, **[Benoît Tournadre](#benoît-tournadre)**, MINES ParisTech
     > Climate Change: observations, processes and projections
 ---
-#### Ronald C. Cohen
-*University of California, Berkeley*  
-
 #### Dylan Jones
 *University of Toronto*
 
@@ -61,7 +56,7 @@ Liye Zhu is an associate professor of Atmosphere Science at Sun Yat-sen Universi
 *University of Lille*
 
 #### Lei Bi
-*Zhejiang University*
+*Zhejiang University*  
 Lei Bi, a “Hundred Talents” professor at Zhejiang University since 2015. Dr. Lei Bi's primary research interest focuses on electromagnetic wave scattering by non-spherical and inhomogeneous particles such as ice crystals and aerosols in the atmosphere. Such fundamental research work has a wide variety of applications in atmospheric radiation and remote sensing, weather and climate studies. He has published 73 refereed journal papers, which have been cited 1868 times (web of science) and 2547 times (google scholar). He obtained his Ph.D degree in 2011 in Physics Department at Texas A&M University (TAMU), USA, and then conducted research as a Postdoctoral Research Associate (2011-2014) and an Assistant Research Scientist (2014-2015) at the Department of Atmospheric Sciences at TAMU. In 2015, he received Richard Goody award for his contribution to atmospheric radiation research. In 2016, he received Xie Yibing young scientist award. In 2019, he received the IAMAS Early Career Scientist Medal. In 2020, he received an NSF grant for excellent young research scientists. He serves as an International Radiation Commission (IRC) commissioner, an associate editor of Journal of Quantitative Spectroscopy & Radiative Transfer, an editor of Advances in Atmospheric Sciences, and an editor of Asia-Pacific Journal of Atmospheric Sciences.
 #### Linlu Mei
 *University of Bremen*  
