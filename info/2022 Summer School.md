@@ -1,5 +1,6 @@
 # 2022 Atmospheric Environmental Remote Sensing Summer School
-The Summer School is an annual training course organized by Atmospheric Environmental Remote Sensing Society (AERSS). The Society is an international scientific non-profit organization which will be formally recognized in mid-July 2022. AERSS is dedicated to building an interdisciplinary and cross-country platform for linking remote sensing to modeling and in situ observations, and promoting the application of atmospheric environmental remote sensing in climate, air quality, and other sustainable development goals (SDGs), especially in the Global South. As the inaugural event, the 2022 Summer School will invite senior and emerging scientists to deliver lectures. Due to the COVID-19 epidemic, the training courses will be held online over the two-day period from ***July 14-15, 2022***, using ***VooV Meeting***. A wide range of participants is expected including professional researchers, students, faculties, university staff, and policymakers.
+The Summer School is an annual training course organized by Atmospheric Environmental Remote Sensing Society (AERSS). The Society is an international scientific non-profit organization which will be formally recognized in mid-July 2022. AERSS is dedicated to building an interdisciplinary and cross-country platform for linking remote sensing to modeling and in situ observations, and promoting the application of atmospheric environmental remote sensing in climate, air quality, and other sustainable development goals (SDGs), especially in the Global South. As the inaugural event, the 2022 Summer School will invite senior and emerging scientists to deliver lectures. Due to the COVID-19 epidemic, the training courses will be held online over the two-day period from ***July 14-15, 2022***, using ***VooV Meeting***. A wide range of participants is expected including professional researchers, students, faculties, university staff, and policymakers.  
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School.png'>
 
 <br>
 
@@ -13,6 +14,7 @@ Moderator: **Chi Li**, Washington University in St. Louis.
     > Combining multiple remotely sensed platforms, physics, and chemistry to quantify, analyze, and attribute atmospheric carbon and nitrogen
 - 10:00-11:00, **[Liye Zhu](#liye-zhu)**, Sun Yat-Sen University
     > Introduction to atmospheric environmental remote sensing and data analysis
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_1.png'>  
 
 <br>
 
@@ -26,6 +28,7 @@ Moderator: **Siwei Li**, Wuhan University
     > Light scattering by nonspherical particles: concepts, methods and applications
 - 16:00-17:00, **[Linlu Mei](#linlu-mei)**, University of Bremen
     > Remote sensing of atmospheric and surface parameters: from theory to knowledge
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_2.png'>  
 
 <br>
 
@@ -41,6 +44,8 @@ Moderator: **Bin Zou**, Central South University
     > Spatial epidemiology: a case study of air pollution and risk for cardiovascular diseases
 - 17:00-18:00, **[Benoît Tournadre](#benoît-tournadre)**, MINES ParisTech
     > Climate Change: observations, processes and projections
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_3.png'>  
+
 ---
 #### Dylan Jones
 *University of Toronto*
