@@ -2,8 +2,6 @@
 The Summer School is an annual training course organized by Atmospheric Environmental Remote Sensing Society (AERSS). The Society is an international scientific non-profit organization which will be formally recognized in mid-July 2022. AERSS is dedicated to building an interdisciplinary and cross-country platform for linking remote sensing to modeling and in situ observations, and promoting the application of atmospheric environmental remote sensing in climate, air quality, and other sustainable development goals (SDGs), especially in the Global South. As the inaugural event, the 2022 Summer School will invite senior and emerging scientists to deliver lectures. Due to the COVID-19 epidemic, the training courses will be held online over the two-day period from ***July 14-15, 2022***, using ***VooV Meeting***. A wide range of participants is expected including professional researchers, students, faculties, university staff, and policymakers.  
 <img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School.png'>
 
-<br>
-
 ## Session 1: Remote Sensing and Modelling
 Morning on 14th July 2022 (GMT+8)  
 Moderator: **Chi Li**, Washington University in St. Louis.   
@@ -16,8 +14,6 @@ Moderator: **Chi Li**, Washington University in St. Louis.
     > Introduction to atmospheric environmental remote sensing and data analysis
 <img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_1.png'>  
 
-<br>
-
 ## Session 2: Remote Sensing Retrieval
 Afternoon on 14th July 2022 (GMT+8)  
 Moderator: **Siwei Li**, Wuhan University  
@@ -29,8 +25,6 @@ Moderator: **Siwei Li**, Wuhan University
 - 16:00-17:00, **[Linlu Mei](#linlu-mei)**, University of Bremen
     > Remote sensing of atmospheric and surface parameters: from theory to knowledge
 <img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_2.png'>  
-
-<br>
 
 ## Session 3: Air quality, Climate and Health
 Afternoon on 15th July 2022 (GMT+8)  
@@ -73,7 +67,7 @@ Linlu Mei received the B.S. degree in geographic information system from the Chi
 #### Gerrit de Leeuw
 *Royal Netherlands Meteorological Institute (KNMI)*  
 *AERSS Advisory Committee Member*  
-Gerrit de Leeuw is Professor Emiritus from theUniversity of Helsinki and the Finnish Meteorological Institute. He joined KNMI,Department of Satellite Observations, in 2020 and is a visiting professor atRADI-CAS (Beijing), and CUMT (Xuzhou), China. His primary interest is theapplication of satellite and ground-based remote sensing data of aerosols andtrace gases in studies on air quality and climate, with a focus on thespatiotemporal variation of aerosol properties over China at a variety ofspatial scales. To this end, satellite-retrieved aerosol and trace gasconcentrations are compared with ground-based observations and model results tobetter understand the variation of aerosol properties and the influencingfactors. Gerrit de Leeuw has published about 235 scientific papers inpeer-reviewed journals (Web of Science H-index 47, Google Scolar H-index 66;ref dec 2021), on topics varying from the production and concentrations of seaspray aerosols, air-sea gas transfer, waves and bubbles in the ocean; since1995 his focus shifted to satellite remote sensing of aerosols and algorithmdevelopment for different sensors, in particular using the dual view capacityof the (advanced) along-track scanning radiometers (A)ASTR. He has beeninvolved a variety of international projects on these topics, often ascoordinator or work-package leader. He has been leading research groups at TNO(Netherlands) and FMI (Finland) for more than 30 years. 
+Gerrit de Leeuw is Professor Emiritus from theUniversity of Helsinki and the Finnish Meteorological Institute. He joined KNMI,Department of Satellite Observations, in 2020 and is a visiting professor at RADI-CAS (Beijing), and CUMT (Xuzhou), China. His primary interest is theapplication of satellite and ground-based remote sensing data of aerosols andtrace gases in studies on air quality and climate, with a focus on the spatiotemporal variation of aerosol properties over China at a variety of spatial scales. To this end, satellite-retrieved aerosol and trace gas concentrations are compared with ground-based observations and model results tobetter understand the variation of aerosol properties and the influencing factors. Gerrit de Leeuw has published about 235 scientific papers inpeer-reviewed journals (Web of Science H-index 47, Google Scolar H-index 66;ref dec 2021), on topics varying from the production and concentrations of seaspray aerosols, air-sea gas transfer, waves and bubbles in the ocean; since 1995 his focus shifted to satellite remote sensing of aerosols and algorithm development for different sensors, in particular using the dual view capacity of the (advanced) along-track scanning radiometers (A)ASTR. He has been involved a variety of international projects on these topics, often as coordinator or work-package leader. He has been leading research groups at TNO(Netherlands) and FMI (Finland) for more than 30 years. 
 #### Steve Hung Lam Yim
 *Nanyang Technological University*  
 *AERSS Council Member*  
