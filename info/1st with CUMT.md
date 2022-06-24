@@ -1,6 +1,4 @@
 ## 1st Event with China University of Mining and Technology
-<img src='https://github.com/AERSS2022/webinar/blob/main/info/1st%20with%20CUMT.png'>
-
 Morning on 25th June 2022 (GMT+8)  
 Moderator: **Kai Qin** & **Jason B. Cohen**, China University of Mining and Technology; **Jintai Lin**, Peking University
 
@@ -11,6 +9,7 @@ Moderator: **Kai Qin** & **Jason B. Cohen**, China University of Mining and Tech
     > Inferring air pollution from space: abundances, sources and sinks
 - 10:40-11:40, **[Lei Zhu](#lei-zhu)**, Southern University of Science and Technology (SUSTech)
     > Satellite remote sensing of trace gases and applications for air quality studies
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/1st%20with%20CUMT.png'>
 
 ---
 #### **Juseon Bak**  
