@@ -30,7 +30,7 @@ Moderator: **Siwei Li**, Wuhan University
 
 ## Session 3: Air quality, Climate and Health
 Afternoon on 15th July 2022 (GMT+8)  
-Moderator: **Bin Zou**, Central South University  
+Moderator: **Zhe Jiang**, University of Science and Technology of China
 ### Agenda
 - 14:00-15:00, **[Steve Hung Lam Yim](#steve-hung-lam-yim)**, Nanyang Technological University 
     > Transboundary air pollution and its health impact in China
