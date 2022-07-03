@@ -5,5 +5,8 @@
 | ---- | -------------------------| ---------------------------------- |
 | [1st with CUMT](https://github.com/AERSS2022/webinar/blob/main/info/1st%20with%20CUMT.md)| 25 June 2022, 08:00-11:40| [Videos](https://c1n.cn/aerss001) <br> |
 | [2022 Summer School](https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School.md) | 14 July 2022, 08:30-11:30 <br> 14 July 2022, 14:00-17:00 <br> 15 July 2022, 14:00-18:00| Meeting ID: 629-689-570 <br> [Registration link for users **outside** Chinese Mainland](https://c1n.cn/aerss)<br>  [Registration link for users **in** Chinese Mainland](https://c1n.cn/aersscn) <br/> |
-| [Inauguration Ceremony](https://github.com/AERSS2022/webinar/blob/main/info/Inauguration%20Ceremony.md) | 15 July 2022, 16:30-18:30 | Meeting ID: 519-122-656 <br> [Accounts **outside** Chinese Mainland](https://voovmeeting.com/dm/VEarmYFa9OBC)<br>  [Accounts **in** Chinese Mainland](https://meeting.tencent.com/dm/VEarmYFa9OBC) <br/> |
 |      |                         |         
+---
+🎉Special Event:  [**Inauguration Ceremony**](https://github.com/AERSS2022/webinar/blob/main/info/Inauguration%20Ceremony.md)
+- 15 July 2022, 16:30-18:30 (GMT +8)
+- [Meeting ID: 519-122-656](https://voovmeeting.com/dm/VEarmYFa9OBC)
