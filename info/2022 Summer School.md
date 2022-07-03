@@ -32,13 +32,11 @@ Moderator: **Siwei Li**, Wuhan University
 Afternoon on 15th July 2022 (GMT+8)  
 Moderator: **Bin Zou**, Central South University  
 ### Agenda
-- 14:00-15:00, **[Gerrit de Leeuw](#gerrit-de-leeuw)**, Royal Netherlands Meteorological Institute (KNMI)
-    > Aerosol information from satellite observations for air quality and climate applications
-- 15:00-16:00, **[Steve Hung Lam Yim](#steve-hung-lam-yim)**, Nanyang Technological University 
+- 14:00-15:00, **[Steve Hung Lam Yim](#steve-hung-lam-yim)**, Nanyang Technological University 
     > Transboundary air pollution and its health impact in China
-- 16:00-17:00, **[Peng Jia](#peng-jia)**, Wuhan University
+- 15:00-16:00, **[Peng Jia](#peng-jia)**, Wuhan University
     > Spatial epidemiology: a case study of air pollution and risk for cardiovascular diseases
-- 17:00-18:00, **[Benoît Tournadre](#benoît-tournadre)**, MINES ParisTech
+- 16:00-17:00, **[Benoît Tournadre](#benoît-tournadre)**, MINES ParisTech
     > Climate Change: observations, processes and projections
 <img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_3.png'>  
 
@@ -65,11 +63,8 @@ Oleg DUBOVIK specializes in retrievals of aerosol properties from satellite, gro
 Lei Bi, a “Hundred Talents” professor at Zhejiang University since 2015. Dr. Lei Bi's primary research interest focuses on electromagnetic wave scattering by non-spherical and inhomogeneous particles such as ice crystals and aerosols in the atmosphere. Such fundamental research work has a wide variety of applications in atmospheric radiation and remote sensing, weather and climate studies. He has published 73 refereed journal papers, which have been cited 1868 times (web of science) and 2547 times (google scholar). He obtained his Ph.D degree in 2011 in Physics Department at Texas A&M University (TAMU), USA, and then conducted research as a Postdoctoral Research Associate (2011-2014) and an Assistant Research Scientist (2014-2015) at the Department of Atmospheric Sciences at TAMU. In 2015, he received Richard Goody award for his contribution to atmospheric radiation research. In 2016, he received Xie Yibing young scientist award. In 2019, he received the IAMAS Early Career Scientist Medal. In 2020, he received an NSF grant for excellent young research scientists. He serves as an International Radiation Commission (IRC) commissioner, an associate editor of Journal of Quantitative Spectroscopy & Radiative Transfer, an editor of Advances in Atmospheric Sciences, and an editor of Asia-Pacific Journal of Atmospheric Sciences.
 #### Linlu Mei
 *University of Bremen*  
+*AERSS WG-2 Aerosols Co-Chair*  
 Linlu Mei is a senior research scientist at Institute of Environmental Physics, University of Bremen. His main research topics include radiative transfer theory, cryosphere, remote sensing of aerosol, cloud and surface properties, long-term data creation and applications. Dr. Mei is the PI of the XBEAR (eXtensible Bremen Aerosol/cloud and surfacE parameters Retrieval) algorithm, which is providing global aerosol, cloud and surface data products for MERIS and OLCI instruments. Dr. Mei is also the PI of the fast radiative transfer model- FASMAR (Fast and Accurate Semi-analytical Model of Atmosphere-surface Reflectance) and responsible for the aerosol, cloud and surface parts in the radiative transfer software package –SCIATRAN, which is widely used in 58 countries.
-#### Gerrit de Leeuw
-*Royal Netherlands Meteorological Institute (KNMI)*  
-*AERSS Advisory Committee Member* 
-Gerrit de Leeuw is Professor Emiritus from the University of Helsinki and the Finnish Meteorological Institute. He joined KNMI, Department of Satellite Observations, in 2020 and is a visiting professor at RADI-CAS (Beijing), and CUMT (Xuzhou), China. His primary interest is the application of satellite and ground-based remote sensing data of aerosols and trace gases in studies on air quality and climate, with a focus on the spatiotemporal variation of aerosol properties over China at a variety of spatial scales. To this end, satellite-retrieved aerosol and trace gas concentrations are compared with ground-based observations and model results to better understand the variation of aerosol properties and the influencing factors. Gerrit de Leeuw has published about 235 scientific papers in peer-reviewed journals (Web of Science H-index 47, Google Scolar H-index 66;ref dec 2021), on topics varying from the production and concentrations of sea spray aerosols, air-sea gas transfer, waves and bubbles in the ocean; since 1995 his focus shifted to satellite remote sensing of aerosols and algorithm development for different sensors, in particular using the dual view capacity of the (advanced) along-track scanning radiometers (A)ASTR. He has been involved a variety of international projects on these topics, often as coordinator or work-package leader. He has been leading research groups at TNO(Netherlands) and FMI (Finland) for more than 30 years.
 #### Steve Hung Lam Yim
 *Nanyang Technological University*  
 *AERSS Council Member*  
