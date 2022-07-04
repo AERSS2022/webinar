@@ -9,5 +9,5 @@
 ---
  [![Twitter](https://img.shields.io/twitter/follow/AERSS_office?style=social)](https://twitter.com/AERSS_office)  
 🎉Special Event:  [**Inauguration Ceremony**](https://github.com/AERSS2022/webinar/blob/main/info/Inauguration%20Ceremony.md)
-- 15 July 2022, 16:30-18:30 (GMT+8)
+- 15 July 2022, 19:00-21:30 (GMT+8)
 - [Meeting ID: 519-122-656](https://voovmeeting.com/dm/VEarmYFa9OBC)    
