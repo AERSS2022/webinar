@@ -9,7 +9,7 @@ Morning on 14th July 2022 (GMT+8)
 Moderator: **Chi Li**, Washington University in St. Louis.   
 ### Agenda
 - 8:30-9:30, **[Dylan Jones](#dylan-jones)**, University of Toronto
-    > TBD
+    > Integrating remote sensing observations with chemical transport models 
 - 9:30-10:30, **[Jason B. Cohen](#jason-b-cohen)**, China University of Mining and Technology  
     > Combining multiple remotely sensed platforms, physics, and chemistry to quantify, analyze, and attribute atmospheric carbon and nitrogen
 - 10:30-11:30, **[Liye Zhu](#liye-zhu)**, Sun Yat-Sen University
