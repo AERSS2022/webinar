@@ -1,44 +1,52 @@
 # 2022 Atmospheric Environmental Remote Sensing Summer School
 The Summer School is an annual training course organized by Atmospheric Environmental Remote Sensing Society (AERSS). The Society is an international scientific non-profit organization which will be formally recognized in mid-July 2022. AERSS is dedicated to building an interdisciplinary and cross-country platform for linking remote sensing to modeling and in situ observations, and promoting the application of atmospheric environmental remote sensing in climate, air quality, and other sustainable development goals (SDGs), especially in the Global South. As the inaugural event, the 2022 Summer School will invite senior and emerging scientists to deliver lectures. Due to the COVID-19 epidemic, the training courses will be held online over the two-day period from ***July 14-15, 2022***, using ***VooV Meeting***. A wide range of participants is expected including professional researchers, students, faculties, university staff, and policymakers.  
+
 Upon completion, you can ***join AERSS for free*** and get the benefits provided by the Society, including but not limited to resource access permissions, discounts on conference registration fees, and guidance by the experts. AERSS is going to offer a limited number of ***travel grants and registration fee waivers*** to subsidize the travel of the member to attend an academic conference funded by AERSS in 2023. Those who shall have participated in this Summer School could sent ***curriculum vitae and one-page research progress*** to AERSS Secretary-General (Kai Qin, qinkai@cumt.edu.cn) before ***July 31 2022***. Applications will be judged on intellectual merit of the paper topic with a view to disciplinary and regional balances.
 
 <img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School.png'>
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_1.png'>  
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_2.png'>  
+<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_3.png'>  
 
 ## Session 1: Remote Sensing and Modelling
 Morning on 14th July 2022 (GMT+8)  
 Moderator: **Chi Li**, Washington University in St. Louis.   
 ### Agenda
 - 8:30-9:30, **[Dylan Jones](#dylan-jones)**, University of Toronto
-    > Integrating remote sensing observations with chemical transport models 
+    > **Integrating remote sensing observations with chemical transport models** 
 - 9:30-10:30, **[Jason B. Cohen](#jason-b-cohen)**, China University of Mining and Technology  
-    > Combining multiple remotely sensed platforms, physics, and chemistry to quantify, analyze, and attribute atmospheric carbon and nitrogen
+    > **Combining multiple remotely sensed platforms, physics, and chemistry to quantify, analyze, and attribute atmospheric carbon and nitrogen**
 - 10:30-11:30, **[Liye Zhu](#liye-zhu)**, Sun Yat-Sen University
-    > Introduction to atmospheric environmental remote sensing and data analysis
-<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_1.png'>  
+    > **Introduction to atmospheric environmental remote sensing and data analysis**  
+    > Abstract: With the rapid development of satellite observation technology, its application fields continue to expand and become an important strategic resource of the new generation of information infrastructure. In this lecture, we will give an introduction of atmospheric environmental remote sensing and data processing. We will introduce what satellite remote sensing is and what types of data products satellite will provide. We will also show examples of how to download, read and process satellite data. This lecture is a useful tutorial for beginners who want to use satellite remote sensing data but do not know where to start. Please mark the lecture time on your calendar and you will gain useful knowledge and skills to start your satellite data processing.  
 
 ## Session 2: Remote Sensing Retrieval
 Afternoon on 14th July 2022 (GMT+8)  
 Moderator: **Siwei Li**, Wuhan University  
 ### Agenda
 - 14:00-15:00, **[Oleg Dubovik](#oleg-dubovik)**, University of Lille
-    > Grand Challenges in Satellite Remote Sensing
+    > **Grand Challenges in Satellite Remote Sensing**
 - 15:00-16:00, **[Lei Bi](#lei-bi)**, Zhejiang University
-    > Light scattering by nonspherical particles: concepts, methods and applications
+    > **Light scattering by nonspherical particles: concepts, methods and applications**
 - 16:00-17:00, **[Linlu Mei](#linlu-mei)**, University of Bremen
-    > Remote sensing of atmospheric and surface parameters: from theory to knowledge
-<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_2.png'>  
+    > **Remote sensing of atmospheric and surface parameters: from theory to knowledge**  
+    > Abstract: This lecture will present three major aspects for surface and atmospheric remote sensing. The first aspect is an introduction of basic knowledge for radiative transfer theory and corresponding radiative transfer models, including the fast radiative transfer model - FASMAR and full radiative transfer package – SCIATRAN. The second aspect will focus on the retrieval theory by introducing classical inverse problems, 2-3 examples using the XBAER algorithm to derive global aerosol, cloud and surface properties will be detailed presented. The last part of this lecture is to introduce a few examples of how to use the satellite products to obtain new understanding for climate change.  
+    > References suggested for reading  
+    > Mei, L., Rozanov, V., Rozanov, A., and Burrows, J.: [SCIATRAN software package (V4.6): update and further development of aerosol, clouds, surface reflectance databases and models](https://doi.org/10.5194/gmd-2022-153), Geosci. Model Dev. Discuss., in review, 2022.  
+    > Mei, L., Rozanov, V., and Burrows, J.: [A fast and accurate radiative transfer model for aerosol remote sensing](https://doi.org/10.1016/j.jqsrt.2020.107270), Journal of Quantitative Spectroscopy and Radiative Transfer. 256, 107270, 2020.  
+    > Mei, L., Rozanov, V., Vountas, M., Burrows, J. P., Levy, R.C., and Lotz, W, [Retrieval of aerosol optical properties using MERIS observations: Algorithm and some first results](https://doi.org/10.1016/j.rse.2016.11.015), Remote sensing of environment, 197, 125-140, 2017  
 
 ## Session 3: Air quality, Climate and Health
 Afternoon on 15th July 2022 (GMT+8)  
 Moderator: **Zhe Jiang**, University of Science and Technology of China
 ### Agenda
 - 14:00-15:00, **[Steve Hung Lam Yim](#steve-hung-lam-yim)**, Nanyang Technological University 
-    > Transboundary air pollution and its health impact in China
+    > **Transboundary air pollution and its health impact in China**
 - 15:00-16:00, **[Peng Jia](#peng-jia)**, Wuhan University
-    > Spatial epidemiology: a case study of air pollution and risk for cardiovascular diseases
+    > **Spatial epidemiology: a case study of air pollution and risk for cardiovascular diseases**
 - 16:00-17:00, **[Benoît Tournadre](#benoît-tournadre)**, MINES ParisTech
-    > Climate Change: observations, processes and projections
-<img src='https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School_3.png'>  
+    > **Climate Change: observations, processes and projections**  
+    > Abstract: This lecture will present key elements to understand past, present, and expected changes of the Earth’s climate. We will explore how climate is measured and what has been observed over the last century. An extension of these observations in the past is possible with the study of paleoclimate proxies that inform us on many million years. Our understanding of the climate machine is also based on models describing the physics and interactions between atmosphere, land, oceans, and ice sheets. These models can also help us in making projections of how the Earth’s climate will evolve in the future. For the lecture to be the most adapted to your interests, we ask to all participants to fill the short survey at the link below. The questions do not require any investigation from your side, it is even better if you answer just from what you already know (or don't know).  https://form.dragnsurvey.com/survey/r/839d2f29  
 
 ---
 #### Dylan Jones
