@@ -1,8 +1,8 @@
 # AERSS Webinar Series
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=AERSS2022.webinar&left_color=lightgrey&right_color=green&left_text=Hello%20Visitors)](http://aerss.net)
+[![visitor](https://visitor-badge.glitch.me/badge?page_id=AERSS2022.webinar&left_color=lightgrey&right_color=green&left_text=Hello%20Visitors)](https://aerss.net)
 [![Twitter](https://img.shields.io/twitter/follow/AERSS_office?style=social)](https://twitter.com/AERSS_office)  
 
-> The webinar application is VooV Meeting, please refer to **[Quick Start](https://github.com/AERSS2022/webinar/blob/main/voov/VooV%20Meeting%20Quick%20Start.md)** if you are a first-time user :)
+> The webinar application is VooV Meeting, please refer to **[Quick Start](https://github.com/AERSS2022/webinar/blob/main/voov/VooV%20Meeting%20Quick%20Start.md)** if you are a first-time user : )
 
 | Title   | Time (GMT+8)            |   Join Now!              | 
 | ---- | -------------------------| ---------------------------------- |
