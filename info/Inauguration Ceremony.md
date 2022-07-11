@@ -1,6 +1,5 @@
 ## AERSS Inauguration Ceremony
 Afternoon on 15th July 2022 (GMT+8)  
-Venue: Lanzhou, China
 
 ### Agenda
 | Time        | Content                                                       | Host                | 
