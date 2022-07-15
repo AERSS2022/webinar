@@ -10,6 +10,4 @@
 | [2022 Summer School](https://github.com/AERSS2022/webinar/blob/main/info/2022%20Summer%20School.md) | 14 July 2022, 08:30-11:30 <br> 14 July 2022, 14:00-17:00 <br> 15 July 2022, 14:00-17:00| [Videos_Session1](https://c1n.cn/aerss2022s1)  <br> [Videos_Session2](https://c1n.cn/aerss2022s2) <br> [Videos_Session3](https://c1n.cn/aerss2022s3) <br/> |
 |      |                         |         
 ---
-🎉Special Event:  [**Inauguration Ceremony**](https://github.com/AERSS2022/webinar/blob/main/info/Inauguration%20Ceremony.md)
-- 15 July 2022, 19:00-21:30 (GMT+8)
-- [Meeting ID: 519-122-656](https://voovmeeting.com/dm/VEarmYFa9OBC)    
+🎉Special Event:  [**Inauguration Ceremony**](https://github.com/AERSS2022/webinar/blob/main/info/Inauguration%20Ceremony.md), 15 July 2022, 19:00-21:30  
